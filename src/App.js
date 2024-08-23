@@ -1,4 +1,3 @@
-import { useEffect, useState, Suspense, lazy } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AllProductsView from "./estoreApp/Components/AllProductsView";
 // import ExampleComponent from "./estoreApp/Components/ExampleComponent";
